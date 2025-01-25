@@ -8,3 +8,5 @@ This helps to send mail via gmail using SpringBoot.
   - To Address
   - Subject
   - Message
+
+> This application was created using Java, Spring Boot, Spring Mail and Thymeleaf.
